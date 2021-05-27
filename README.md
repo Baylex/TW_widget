@@ -19,7 +19,7 @@ The initial design was for the estimator on top and the directions below.  Howev
 
 
 ## Embed the Estimators into Squarespace with JavaScript
-In OneDrive with Excel Online, right clicking the file will allow the embed option to appear, which generates some JavaScript code that can be adjusted in a second screen.  When all the adjustments are made the code can be copied and pasted into Squarespace code container.  I wrapped the code with the center script to align the estimator on the page.
+In OneDrive with Excel Online, right clicking the file will allow the embed option to appear, which generates some JavaScript code that can be adjusted in a secondary screen.  When all the adjustments are made, the code can be copied and pasted into a JavaScript container within Squarespace.  I wrapped the code with the center script to align the estimator on the page for a final clean look.
 
 ## Final version of the Estimators
 [TIA Designation Estimator](https://transformationwaco.org/tia-designation-estimator)   
@@ -28,8 +28,8 @@ In OneDrive with Excel Online, right clicking the file will allow the embed opti
 
 
 ## Challenges
-I was able to get all the items in the dropdown menu.  However, I wanted to use the 0% to 100% as a spin button under the Developer tab.  Unfortunately, the Excel Online version does not support the spin button from either the Form Control or the Active X control.  I had to settle using the List option under Data Validation and used a reference array for the list.  
+I was able to get all the input selections set up as dropdown menu items.  However, I wanted to use the 0% to 100% as a spin button under the Developer tab.  Unfortunately, the Excel Online version does not support the spin button from either the Form control or the Active X control.  I had to settle using the List option under Data Validation and used a reference array for the list.  
 [Spin Buttons in Excel](https://support.microsoft.com/en-us/office/add-a-scroll-bar-or-spin-button-to-a-worksheet-f8443be3-ff00-4cad-bb2f-bf0f88ebf5bb)
   
 ## Future Versions
-The team wants to add the estimated stipend amounts based on the campus.  
+The team wants to add the estimated stipend amounts based on the campus.  However, the funding formulas will need some more time and work to disaggregate appropriately.    
