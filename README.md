@@ -34,3 +34,4 @@ I was able to get all the input selections set up as dropdown menu items.  Howev
   
 ## Future Versions
 The team wants to add the estimated stipend amounts based on the campus.  However, the funding formulas will need some more time and work to disaggregate appropriately.    
+[Funding Allotments](https://tiatexas.org/about-teacher-incentive-allotment/allotments/)
