@@ -2,7 +2,7 @@
 As for my work with Transformation Waco, I was asked to create 2 interactive online calculators as it pertains to their Teacher Incentive Allotment (TIA) designations.
 
 ## What is the Teacher Incentive Allotment?
-TIA is an optional funding source to help increase teacher salaries to six-figures in Texas through earning additional stipends.  The ideal teacher prioritizes teaching in high need subjects and campuses.   
+The TIA is an optional funding source to help increase teacher salaries to six-figures in Texas through earning additional stipends.  The ideal teacher prioritizes teaching in high need subjects and campuses.   
 [Source: Texas Education Agency](https://tea.texas.gov/texas-educators/educator-initiatives-and-performance/educator-initiatives/teacher-incentive-allotment)
 
 ## JavaScript Initial Plan
