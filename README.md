@@ -8,7 +8,7 @@ The TIA is an optional funding source to help increase teacher salaries to six-f
 ## JavaScript Initial Plan
 My initial attempt was to write the calculator using only JavaScript.  I gathered some starter code and began exploring options of how to build the calculators.  However, after researching some more, I was able to determine a significantly easier process.        
 [Simple Interactive Website](https://baylex.github.io/TW_Estimators/)    
-[Source starter code](https://simplestepscode.com/javascript-quiz-tutorial/)   
+[Source: starter code](https://simplestepscode.com/javascript-quiz-tutorial/)   
 
 ## Design and Write Formulas for the Estimators in Excel Online
 With a OneDrive account, I was able to write VLOOKUP and conditional formulas as needed for the 2 calculators in Excel Online, which was validated by the TIA Coordinator.  All inputs from the end user needed to be made into dropdown menu items per the design specifications.  Once the design, branding, and layout was approved by the Communication committee, the next thing to do was to secure the formulas.  Using the desktop application of Excel, the spreadsheet was locked, all formulas and lookup arrays were hidden, password protections set, and finally saved back into Excel Online.   
